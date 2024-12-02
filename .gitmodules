@@ -1,0 +1,12 @@
+[submodule "Project1"]
+	path = Project1
+	url = ./Project1
+[submodule "lighting"]
+	path = lighting
+	url = .\\lighting\\
+[submodule "model loading"]
+	path = model loading
+	url = .\\model loading\\
+[submodule "triangle"]
+	path = triangle
+	url = ./triangle
